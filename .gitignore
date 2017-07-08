@@ -1,4 +1,2 @@
 /**/*.tfvars
-/**/*.tfvars
-/**/*.tfstate
 /**/*.tfstate*
